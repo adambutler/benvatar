@@ -18,3 +18,11 @@ body {
   text-align: center;
   font-family: sans-serif;
 }
+
+.subtle {
+  color: #888;
+}
+
+a {
+  color: #f00;
+}
