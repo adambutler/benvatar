@@ -1,6 +1,6 @@
 # Benvatar
 
-A silly project for adding overlays to twitter accounts... in this case the [Ben Week](http://benweek.whiteoctober.com) badge.
+A silly project for adding overlays to twitter accounts... in this case the [Ben Week](http://benweek.whiteoctober.co.uk) badge.
 
 Can easily be adapted to change the image to fit your needs.
 
